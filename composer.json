@@ -1,0 +1,13 @@
+{
+    "name": "andre522/composer1",
+    "description": "aula de composer da segunda feira",
+    "authors": [
+        {
+            "name": "André Luis",
+            "email": "andreluis22.ap@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^2.5"
+    }
+}
